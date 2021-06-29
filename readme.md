@@ -1,4 +1,5 @@
 # Livro de receitas
 
-Olá1 Bem vindo ao livri de receitas
+Olá! Bem vindo ao livro de receitas
  - Feijoada
+ - novo item
